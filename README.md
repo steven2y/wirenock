@@ -24,3 +24,6 @@ Run
     node lib/wirenock.js http://google.com 9090 --record --debug
 
     currently recordings go into /lib/routes/temp
+    
+    To use the mappings
+    move the recordings into stubs _files and mappings then restart server
